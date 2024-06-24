@@ -2,6 +2,14 @@
 
 ## Topics Covered
 
+- What is Git?
+- Initiating Git into a Local File or Folder Repository
+- Add and Commit to the Git Repository
+- Remove or Delete files from the Git Repository
+- Checkout and Push command in Git
+- Most widely used git commands in our project.
+- Branching in Git.
+
 ## Take Aways
 
 ## Commands and Meaning
